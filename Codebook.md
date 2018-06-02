@@ -6,7 +6,7 @@ This codebook describes the variables, the data, and work that I performed to cl
 A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the following link: https://www.youtube.com/watch?v=XOEN9W05_4A
 An updated version of this dataset can be found at http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
 
-## subject 
+## Subject 
 Each volunteer works as a independent single subject in the experiment.
 30 volunteers in total.
 
@@ -582,7 +582,7 @@ tBodyAcc-max()-X
 560 angle(Y,gravityMean)
 561 angle(Z,gravityMean)
 
-## Names in scirpt "run_analysis.R"
+## Variables in scirpt "run_analysis.R"
 -features
 	read table "feature.txt".
 -activity_labels
